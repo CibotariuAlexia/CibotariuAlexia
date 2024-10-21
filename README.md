@@ -1,4 +1,5 @@
 ## Hi there 👋
+## 🌱 I’m currently learning with the help of Github's and Microsoft's reosurces!
 
 <!--
 **CibotariuAlexia/CibotariuAlexia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
